@@ -1,0 +1,12 @@
+{
+  "name": "BOT-Md",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/ilmanhdytBOT-Md",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
