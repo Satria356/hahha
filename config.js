@@ -1,6 +1,6 @@
 global.owner = ['6283811034750'] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['Fahri'] // Want some help?
+global.prems = ['6283811034750] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
